@@ -6,7 +6,7 @@ import LocalEcommerce from './pages/LocalEcommerce'; // Import the new page
 
 function App() {
   return (
-    <Router>
+    <Router basename="/DesLang/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/project/local-ecommerce" element={<LocalEcommerce />} />

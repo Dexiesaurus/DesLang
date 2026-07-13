@@ -18,7 +18,7 @@ function Home() {
   <div className="about-card">
     <div className="about-header">
       <div className="profile-photo-wrapper">
-        <img src="/profilepicv1.jpeg" alt="Destini Lang" className="profile-photo" />
+        <img src="/DesLang/profilepicv1.jpeg" alt="Destini Lang" className="profile-photo" />
         <div className="photo-accent"></div>
         <div className="paper-clip"></div>
       </div>

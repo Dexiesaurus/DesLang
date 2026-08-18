@@ -56,9 +56,8 @@ function Home() {
       <div className="about-right">
         <h4>EXPERIENCE</h4>
         <p>
-          Specializing in high-fidelity user research and digital anthropology. 
-          I bridge the gap between feral human emotion and clinical digital precision. 
-          My work sits at the intersection of rigorous research methodology and human-centered design.
+          Hi! 
+          I am Destini lang, a Chicago based Researcher /designer with an educational background and experience in Humanities and User-centered design.I express a strong interest in Accessibility, Design ethics, Education and Social systems.
         </p>
         
         <div className="skills-tags">
@@ -81,7 +80,7 @@ function Home() {
           <ProjectCard 
   id="local-ecommerce" 
   title="Local E-Commerce" 
-  description="Investigating how small, Chicago-based businesses can compete in digital retail." 
+  description="Exploring how small, Chicago-based businesses can compete in digital retail." 
 />
 
 

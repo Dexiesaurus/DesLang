@@ -12469,7 +12469,7 @@ function Home() {
 							className: "about-right",
 							children: [
 								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h4", { children: "EXPERIENCE" }),
-								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "Specializing in high-fidelity user research and digital anthropology. I bridge the gap between feral human emotion and clinical digital precision. My work sits at the intersection of rigorous research methodology and human-centered design." }),
+								/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { children: "Hi! I am Destini lang, a Chicago based Researcher/designer with an educational background and experience in Humanities and User-centered design.I express a strong interest in Accessibility, Design ethics, Education and Social systems. I am passionate about creating inclusive and accessible digital experiences that cater to diverse user needs. My work focuses on understanding user behavior, conducting usability research, and implementing design solutions that enhance user satisfaction and engagement." }),
 								/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
 									className: "skills-tags",
 									children: [
@@ -12517,7 +12517,7 @@ function Home() {
 						/* @__PURE__ */ (0, import_jsx_runtime.jsx)(ProjectCard, {
 							id: "local-ecommerce",
 							title: "Local E-Commerce",
-							description: "Investigating how small, Chicago-based businesses can compete in digital retail."
+							description: "Exploring how small, Chicago-based businesses can compete in digital retail."
 						}),
 						/* @__PURE__ */ (0, import_jsx_runtime.jsx)(ProjectCard, {
 							id: "jarvis-lab",

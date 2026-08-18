@@ -57,7 +57,7 @@ function Home() {
         <h4>EXPERIENCE</h4>
         <p>
           Hi! 
-          I am Destini lang, a Chicago based Researcher /designer with an educational background and experience in Humanities and User-centered design.I express a strong interest in Accessibility, Design ethics, Education and Social systems.
+          I am Destini lang, a Chicago based Researcher/designer with an educational background and experience in Humanities and User-centered design.I express a strong interest in Accessibility, Design ethics, Education and Social systems. I am passionate about creating inclusive and accessible digital experiences that cater to diverse user needs. My work focuses on understanding user behavior, conducting usability research, and implementing design solutions that enhance user satisfaction and engagement.
         </p>
         
         <div className="skills-tags">
